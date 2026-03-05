@@ -4,7 +4,7 @@ As a growing software developer, I am building strong programming foundations an
 
 The purpose of this software is to make sure my development environment works correctly and to practice writing code, using Git, and publishing a project to GitHub. This prepares me for more advanced projects in the future.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[wk1 applied programming hello world](https://youtu.be/6BBRTyIUSYM)
 
 # Development Environment
 
