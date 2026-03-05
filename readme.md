@@ -14,5 +14,5 @@ The purpose of this software is to make sure my development environment works co
 
 # Useful Websites
 
-* [Pytho Documentation](https://docs.python.org/3/)
-* [Documnetation for Visual Studio Code](https://code.visualstudio.com/docs)
+* [Python 3 Documentation](https://docs.python.org/3/)
+* [Documentation for Visual Studio Code](https://code.visualstudio.com/docs)
